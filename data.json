@@ -1,0 +1,81 @@
+[
+  {
+    "_id": { "$oid": "6458f2660370b02a293447b0" },
+    "title": "Antologia Cuentos",
+    "thumbnail": "antologia-cuentos.jpg",
+    "slug": "antologia-cuentos",
+    "description": "Leer a Saer implica sumergirse en un universo que, aun en las sorpresas, en los cambios abruptos, los lectores reconocemos como propio, un universo siempre diferente, aunque en rigor parezca ser siempre el mismo",
+    "stars": "3",
+    "category": ["short-story"]
+  },
+  {
+    "_id": { "$oid": "6458f2c50370b02a2934d5fc" },
+    "title": "La logia de Cadiz",
+    "thumbnail": "la-logia-de-cadiz.jpg",
+    "slug": "la-logia-de-cadiz",
+    "description": "En 1808 un capitán conduce a sus jinetes españoles a la muerte y la gloria. Cuatro años después, un coronel dirige a sus granaderos en un combate letal contra las tropas españolas. Aquel capitán y este coronel son la misma persona: José de San Martín. Antes y después se suceden batallas, muertes, traiciones, linchamientos, intrigas, persecuciones, complots, juramentos secretos y hasta una amarga historia de amor.",
+    "stars": "3",
+    "category": ["fiction"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9aa5" },
+    "title": "Triste, solitario y final",
+    "thumbnail": "triste-solitario-final.jpg",
+    "slug": "triste-solitario-final",
+    "description": "Stan Laurel, el actor que protagonizó junto a Oliver Hardy la serie “El Gordo y el Flaco”, cree, a sus setenta y cinco años, que el fin de su carrera ha llegado: no hay quien le ofrezca trabajo. ¿Qué hacer? La única salida es ir a ver a Philip Marlowe, el detective creado por el escritor Raymond Chandler.",
+    "stars": "3",
+    "category": ["novella"]
+  },
+  {
+    "_id": { "$oid": "648ae00a7a15f23fa4ba9aaa" },
+    "title": "El Juguete Rabioso",
+    "thumbnail": "el-juguete-rabioso.jpg",
+    "slug": "el-juguete-rabioso",
+    "description": "Silvio Astier, el protagonista de esta novela, es inteligente, de opiniones agudas y culto, pero vive en un entorno social pobre y limitado. En su lucha por escapar de esa realidad, forma con sus amigos el Club de los Caballeros de la Media Noche, con los que se dedica a llevar a cabo pequefios hurtos, como su héroe de la ficción, Rocambole.",
+    "stars": "5",
+    "category": ["novella"]
+  },
+  {
+    "_id": { "$oid": "649ae53ea7fa4c85582e7724" },
+    "title": "El Tunel",
+    "thumbnail": "el-tunel.jpg",
+    "slug": "el-tunel",
+    "description": "Desde su celda, el pintor Juan Pablo Castel cuenta el recorrido de pensamientos que lo llevó a asesinar a María Iribarne, la única mujer que –según él– comprendió sus obras. Es un viaje al interior de una mente perversa, que se relaciona desde la manipulación, creyendo que posee a una persona al punto de decidir cuándo será el último latido de su vida.",
+    "stars": "5",
+    "category": ["existentialism"]
+  },
+  {
+    "_id": { "$oid": "649ae85da7fa4c85582e7727" },
+    "title": "Fieras y Perdedores. Antologia",
+    "thumbnail": "fieras-y-perdedores-antologia.jpg",
+    "slug": "fieras-y-perdedores-antologia",
+    "description": "Arlt no escribió lo que había que escribir en su momento. Miró desde afuera y vio a los que nadie registraba: los locos, los rengos, los deformes, los aburridos, los astrólogos, los delincuentes. Entre lo que la sociedad intentaba ocultar y lo exótico caminaba este observador de lo real. La antología está compuesta por: “El jorobadito”, “Ester Primavera”, “Una tarde de domingo”, “La muerte del sol”, “El aprendiz de brujo”, “Los hombres fieras”, “El cazador de orquídeas” y “Acuérdate de Azerbaijan”",
+    "stars": "4",
+    "category": ["short-story"]
+  },
+  {
+    "_id": { "$oid": "649ae855a7fa4c85582e7726" },
+    "title": "Cuentos de Amor, de Locura y de Muerte",
+    "thumbnail": "cuentos-de-locura-amor-y-muerte.jpg",
+    "slug": "cuentos-de-locura-amor-y-muerte",
+    "description": "En 1917 este clásico fue publicado por primera vez con dieciocho relatos. Hoy, cien años más tarde, son quince, y sigue latente la sutil pluma de Horacio Quiroga para retratar a aquellos humanos que atraviesan los límites del amor, de la locura y también de la muerte.",
+    "stars": "4",
+    "category": ["short-story"]
+  }
+  ,
+  {
+    "_id": { "$oid": "649aeab9a7fa4c85582e772a" },
+    "title": "Martin Fierro",
+    "thumbnail": "martin-fierro.jpg",
+    "slug": "martin-fierro",
+    "description": "En 1872 alza la voz por primera vez el gaucho Martín Fierro. Relata su propia historia, que comienza con su forzado reclutamiento en una milicia en la frontera que intenta impedir el ingreso de aborígenes a la región. José Hernández creó este poema épico que es una valiosa contribución, tanto literaria como histórica, sobre la vida de un desertor del ejército argentino y las dificultades de desarrollo en un belicoso contexto sociopolítico.",
+    "stars": "4",
+    "category": ["poem"]
+  }
+]
+
+
+
+
+
+
